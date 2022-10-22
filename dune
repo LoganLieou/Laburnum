@@ -1,0 +1,3 @@
+(executable
+  (name main)
+  (libraries dblib opium sqlite3 yojson))

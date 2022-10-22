@@ -1,0 +1,3 @@
+(library
+  (name dblib)
+  (libraries sqlite3))
